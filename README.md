@@ -1,4 +1,4 @@
-#About
+# About
 
 Create your ideal government coalition for the Dutch parlement based on 2017 election results. The Dutch parlement has 150 seats. The following parties are included:
 
