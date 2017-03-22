@@ -172,5 +172,5 @@ Temporary Items
 # modules.xml
 # .idea/misc.xml
 # *.ipr
-web/build
+/build
 # End of https://www.gitignore.io/api/node,osx,intellij,phpstorm

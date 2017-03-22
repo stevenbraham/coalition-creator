@@ -18,7 +18,8 @@
   "homepage": "https://github.com/stevenbraham/coalition-creator#readme",
   "dependencies": {
     "normalize.css": "^5.0.0",
-    "vue": "^2.2.4"
+    "vue": "^2.2.4",
+    "vue-stash": "^2.0.1-beta"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
