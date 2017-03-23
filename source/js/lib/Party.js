@@ -2,9 +2,9 @@
  * Created by stevenbraham on 22-03-17.
  */
 class Party {
-    constructor(name, abbreviation, color, seats) {
+    constructor(name, id, color, seats) {
         this.name = name;
-        this.abbreviation = abbreviation;
+        this.id = id;
         this.color = color;
         this.seats = seats;
     }
